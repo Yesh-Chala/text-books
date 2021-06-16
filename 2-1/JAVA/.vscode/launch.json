@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - BoolTest",
+            "request": "launch",
+            "mainClass": "BoolTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CharDemo",
+            "request": "launch",
+            "mainClass": "CharDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Light",
+            "request": "launch",
+            "mainClass": "Light"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+SHORT TERM GOALS
+1. a web application that integrates all the chapters of the 2nd year oops R17 curriculum.
+2. containing the complete syllabus that can be accessible to any student any time.
+3. a neatly sorted syllabus in the manner of drop down menus that provide hyper links to navigate
+   to each topic seperately.
+4. in the case of having a programming syntax, highlight it.
+5. an easy to understand java program with in detailed explanation of the syntaxes.
+6. providing an in built try it editor to makenit easy for the students.
+7. hosting it and maintaining. 
+LONG TERM GOALS.
+
+1. imlementing the google adsense program to the website.
+2. in the first level, integrating a team of students form each class and expanding the number of
+    subjects availability.
+3. in the second level, trying to transport the project even inter departmentally.
+4. integrating the website in to the college website, with guidance.
+5. finally ensuring that the whole syllabus of all the branches of JNTUACEA is available in the website.
+
+
+required modules
+1. the online editor
+2. the 	
